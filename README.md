@@ -5,16 +5,3 @@
 - AUGIER Yoann
 - NZE Vincent
 
-## Tâches Accomplies
-- 
-
-## Tâches à Compléter
-- 
-
-## Statut du Projet
-En cours de développement
-
-## A retenir
-
-
-## DERNIER PUSH
